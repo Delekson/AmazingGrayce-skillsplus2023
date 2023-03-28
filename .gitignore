@@ -1,0 +1,4 @@
+.env
+SQL Server/
+resources/PAMAP2_Dataset/Optional/*
+resources/PAMAP2_Dataset/Protocol/*
